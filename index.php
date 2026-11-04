@@ -1,0 +1,1 @@
+<?phpheader("Content-Type: text/html; charset=UTF-8");// SET DATABASE//include 'config/db_config.php';// LOAD CORRECT CONTENTinclude 'config/routes.php';
